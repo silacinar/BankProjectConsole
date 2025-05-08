@@ -1,0 +1,1 @@
+Basit bir konsol tabanlı bankacılık uygulaması. Kullanıcılar hesap oluşturabilir, bakiye sorgulayabilir, para yatırabilir ve çekebilir. Uygulama, temel nesne yönelimli programlama (OOP) prensiplerini C++ dili ile göstermektedir.
